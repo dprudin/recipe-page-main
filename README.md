@@ -26,7 +26,8 @@ In this HTML CSS challenge, I recreate the design in the screenshot and make it 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/dprudin/qr-code-component-main.git)
+- Solution URL: [Github](https://github.com/dprudin/recipe-page-main.git)
+- Solution URL: [Site](https://recipe-page-dp.netlify.app/)
 
 ## My process
 
